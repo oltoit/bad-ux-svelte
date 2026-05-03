@@ -1,0 +1,14 @@
+:root {
+    --background-color: #1a1a1a;
+    --button-color: #00ff88;
+    --header-color: #ffffff;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 8px;
+}
